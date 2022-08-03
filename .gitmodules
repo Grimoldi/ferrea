@@ -1,0 +1,9 @@
+[submodule "src/ferrea-traces"]
+	path = src/ferrea-traces
+	url = https://github.com/Grimoldi/ferrea-traces
+[submodule "src/ferrea-logs"]
+	path = src/ferrea-logs
+	url = https://github.com/Grimoldi/ferrea-logs
+[submodule "src/ferrea-metrics"]
+	path = src/ferrea-metrics
+	url = https://github.com/Grimoldi/ferrea-metrics
