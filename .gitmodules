@@ -1,12 +1,3 @@
-[submodule "src/microservices/ferrea-logs"]
-	path = src/microservices/ferrea-logs
-	url = https://github.com/Grimoldi/ferrea-logs
-[submodule "src/microservices/ferrea-metrics"]
-	path = src/microservices/ferrea-metrics
-	url = https://github.com/Grimoldi/ferrea-metrics
-[submodule "src/microservices/ferrea-traces"]
-	path = src/microservices/ferrea-traces
-	url = https://github.com/Grimoldi/ferrea-traces
 [submodule "src/microservices/ferrea-datasources"]
 	path = src/microservices/ferrea-datasources
 	url = https://github.com/Grimoldi/ferrea-datasources
