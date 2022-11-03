@@ -4,3 +4,12 @@
 [submodule "src/modules/chassis"]
 	path = src/modules/chassis
 	url = https://github.com/Grimoldi/pyferrea-chassis
+[submodule "src/microservices/ferrea-logs"]
+	path = src/microservices/ferrea-logs
+	url = https://github.com/Grimoldi/ferrea-logs
+[submodule "src/microservices/ferrea-metrics"]
+	path = src/microservices/ferrea-metrics
+	url = https://github.com/Grimoldi/ferrea-metrics
+[submodule "src/microservices/ferrea-traces"]
+	path = src/microservices/ferrea-traces
+	url = https://github.com/Grimoldi/ferrea-traces
