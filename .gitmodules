@@ -13,3 +13,6 @@
 [submodule "src/microservices/ferrea-traces"]
 	path = src/microservices/ferrea-traces
 	url = https://github.com/Grimoldi/ferrea-traces
+[submodule "src/microservices/libraries"]
+	path = src/microservices/libraries
+	url = https://github.com/Grimoldi/ferrea-libraries
