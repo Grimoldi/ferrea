@@ -19,3 +19,6 @@
 [submodule "src/microservices/ferrea-libraries"]
 	path = src/microservices/ferrea-libraries
 	url = https://github.com/Grimoldi/ferrea-libraries
+[submodule "adrs"]
+	path = adrs
+	url = https://github.com/Grimoldi/ferrea-adrs
