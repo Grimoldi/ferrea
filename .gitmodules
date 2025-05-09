@@ -3,7 +3,7 @@
 	url = https://github.com/Grimoldi/ferrea-datasources
 [submodule "src/modules/chassis"]
 	path = src/modules/chassis
-	url = https://github.com/Grimoldi/pyferrea-chassis
+	url = https://github.com/Grimoldi/ferrea-lib-chassis
 [submodule "src/microservices/ferrea-logs"]
 	path = src/microservices/ferrea-logs
 	url = https://github.com/Grimoldi/ferrea-logs
