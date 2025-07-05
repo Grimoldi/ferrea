@@ -16,3 +16,6 @@
 [submodule "libraries/chassis"]
 	path = libraries/chassis
 	url = https://github.com/Grimoldi/ferrea-lib-chassis
+[submodule "microservices/skeleton"]
+	path = microservices/skeleton
+	url = https://github.com/Grimoldi/ferrea-ms-skeleton
