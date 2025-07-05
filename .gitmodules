@@ -10,3 +10,9 @@
 [submodule "adrs"]
 	path = adrs
 	url = https://github.com/Grimoldi/ferrea-adrs
+[submodule "microservices/datasources"]
+	path = microservices/datasources
+	url = https://github.com/Grimoldi/ferrea-ms-datasources
+[submodule "libraries/chassis"]
+	path = libraries/chassis
+	url = https://github.com/Grimoldi/ferrea-lib-chassis
