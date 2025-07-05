@@ -4,20 +4,8 @@
 [submodule "src/modules/chassis"]
 	path = src/modules/chassis
 	url = https://github.com/Grimoldi/ferrea-lib-chassis
-[submodule "src/microservices/ferrea-logs"]
-	path = src/microservices/ferrea-logs
-	url = https://github.com/Grimoldi/ferrea-logs
-[submodule "src/microservices/ferrea-metrics"]
-	path = src/microservices/ferrea-metrics
-	url = https://github.com/Grimoldi/ferrea-metrics
-[submodule "src/microservices/ferrea-traces"]
-	path = src/microservices/ferrea-traces
-	url = https://github.com/Grimoldi/ferrea-traces
 [submodule "src/microservices/libraries"]
 	path = src/microservices/libraries
-	url = https://github.com/Grimoldi/ferrea-libraries
-[submodule "src/microservices/ferrea-libraries"]
-	path = src/microservices/ferrea-libraries
 	url = https://github.com/Grimoldi/ferrea-libraries
 [submodule "adrs"]
 	path = adrs
